@@ -1,2 +1,5 @@
-# LocationsGeofencing
-Primeras Pruebas
+# LocationsAPI
+Google Places API demo app
+
+## Screenshots
+
